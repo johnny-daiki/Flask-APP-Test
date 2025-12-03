@@ -1,0 +1,20 @@
+[project]
+name = "day-71"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bootstrap-flask==2.3.3",
+    "flask==2.3.2",
+    "flask-ckeditor==0.5.1",
+    "flask-gravatar==0.5.0",
+    "flask-login==0.6.3",
+    "flask-sqlalchemy==3.1.1",
+    "flask-wtf==1.2.1",
+    "gunicorn==21.2.0",
+    "psycopg2-binary==2.9.9",
+    "sqlalchemy==2.0.25",
+    "werkzeug==3.0.0",
+    "wtforms==3.0.1",
+]
